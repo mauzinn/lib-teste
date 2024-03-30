@@ -1,5 +1,5 @@
 {
-  "name": "file-actions",
+  "name": "@mauzin/file-actions",
   "version": "1.0.0",
   "description": "Como usar? Basicamente uma classe com cerca de duas funções ultiliza o fs de dependencia para funcionar.",
   "main": "index.js",
