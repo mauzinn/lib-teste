@@ -1,0 +1,17 @@
+{
+  "name": "file-actions",
+  "version": "1.0.0",
+  "description": "Como usar? Basicamente uma classe com cerca de duas funções ultiliza o fs de dependencia para funcionar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauzinn/lib-teste.git"
+  },
+  "keywords": [],
+  "author": "mauzin",
+  "license": "ISC",
+  "homepage": "https://github.com/mauzinn/lib-teste"
+}

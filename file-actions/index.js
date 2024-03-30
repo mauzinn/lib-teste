@@ -1,4 +1,4 @@
-import fs from "fs"
+const fs = require("fs")
 
 class File {
     constructor(link, prompt, extra) {
@@ -37,4 +37,4 @@ class File {
     }
 }
 
-export default File
+module.exports = File
